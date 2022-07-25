@@ -1,0 +1,5 @@
+- 👋 Hi, I’m yusuf sevinchan
+- 👀 I’m interested in programming and software
+- 🌱 I’m currently learning c#, and python languages
+- 📫 How to reach me yusufsevinchan@protonmail.com
+- 
